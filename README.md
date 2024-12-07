@@ -10,13 +10,13 @@ Hi, I'm Juan Camilo Garcia Aguirre!
 
 <div>
 <p align="center">
-I am a Systems Engineering student with an interest in software development and creating innovative technological solutions. I enjoy learning new things and tackling challenges that help me improve my skills. I like working on projects where I can apply my knowledge in software design, always striving to make a positive impact with my work.
+I am a Systems Engineering student with an interest in software development and creating innovative technological solutions. I enjoy learning new stuff and tackling challenges that help me improve my skills. I like working on projects where I can apply my knowledge in software design, always striving to make a positive impact with my work.
 </p>
 </div>
 
 <br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Technologies That I Know</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>&nbsp;Technologies That I Know</b>
 
 <p align="center">
   <a href="https://skillicons.dev">
