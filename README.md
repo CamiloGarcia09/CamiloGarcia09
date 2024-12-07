@@ -1,7 +1,6 @@
 <h1 align="center">
-Hi, I'm Juan Camilo Garcia!
+Hi, I'm Juan Camilo Garcia Aguirre!
 </h1>
-
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
@@ -9,10 +8,23 @@ Hi, I'm Juan Camilo Garcia!
 	</a>
 </p>
 
+<div>
+<p align="center">
+I am a Systems Engineering student with an interest in software development and creating innovative technological solutions. I enjoy learning new things and tackling challenges that help me improve my skills. I like working on projects where I can apply my knowledge in software design, always striving to make a positive impact with my work.
+</p>
+</div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
-<br>
+<br><br>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Technologies That I Know</b>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,py,vscode,postgres,azure,github,git,docker,postman&perline=15" />
+  </a>
+</p>
+
+<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
@@ -24,14 +36,13 @@ Hi, I'm Juan Camilo Garcia!
   </a>
 </p>
 
-
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloGarcia09&theme=algolia&hide_border=false"/>
 </p>
 
-
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=CamiloGarcia09&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+[![](https://visitcount.itsvg.in/api?id=CamiloGarcia09&icon=1&color=1)](https://visitcount.itsvg.in)
+
 </div>
+
