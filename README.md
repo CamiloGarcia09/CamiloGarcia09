@@ -27,7 +27,7 @@ I am a Systems Engineering student with an interest in software development and 
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<p align="center">
+<p align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/CamiloGarcia09">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CamiloGarcia09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
