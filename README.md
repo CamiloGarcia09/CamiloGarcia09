@@ -37,7 +37,7 @@ I am a Systems Engineering student with an interest in software development and 
 
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamiloGarcia09&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamiloGarcia09&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 
