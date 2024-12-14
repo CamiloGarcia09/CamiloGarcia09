@@ -29,15 +29,15 @@ I am a Systems Engineering student with an interest in software development and 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/CamiloGarcia09">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CamiloGarcia09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CamiloGarcia09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/CamiloGarcia09">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamiloGarcia09&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamiloGarcia09&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloGarcia09&theme=algolia&hide_border=false"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloGarcia09&theme=algolia&hide_border=false"/>
 </p>
 
 <div align="center">
