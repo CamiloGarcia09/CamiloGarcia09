@@ -31,19 +31,7 @@ I am a Systems Engineering student with an interest in software development and 
 <p align="center" style="display: flex; justify-content: space-between; gap: 20px;">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CamiloGarcia09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" 
          style="width: 45%; height: auto;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloGarcia09&theme=algolia&hide_border=false"
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamiloGarcia09&layout=compact&langs_count=8&theme=algolia"
          style="width: 45%; height: auto;">
 </p>
-
-
-<p align="center">
-  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamiloGarcia09&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=CamiloGarcia09&icon=1&color=1)](https://visitcount.itsvg.in)
-
-</div>
 
